@@ -8,9 +8,9 @@ public class Cart {
     private Integer userId;
 
     private Integer productId;
-
+    //数量
     private Integer quantity;
-
+    //是否选择:1已勾选，0未勾选
     private Integer checked;
 
     private Date createTime;
