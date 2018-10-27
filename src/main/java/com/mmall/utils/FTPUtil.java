@@ -9,9 +9,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by Lwei on 2018/9/21.
- */
+
 public class FTPUtil {
 
     private static final Logger logger = LoggerFactory.getLogger(FTPUtil.class);

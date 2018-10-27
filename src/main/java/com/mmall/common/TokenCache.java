@@ -8,9 +8,7 @@ import org.slf4j.LoggerFactory;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Lwei on 2018/9/4.
- */
+
 public class TokenCache {
 
     //声明日志

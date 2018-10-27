@@ -1,8 +1,6 @@
 package com.mmall.common;
 
-/**
- * Created by Lwei on 2018/9/2.
- */
+
 public enum ResponseCode {
 
     SUCCESS(0,"SUCCESS"),

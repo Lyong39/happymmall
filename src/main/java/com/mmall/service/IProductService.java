@@ -5,11 +5,9 @@ import com.mmall.common.ServerResponse;
 import com.mmall.pojo.Product;
 import com.mmall.vo.ProductDetailVo;
 
-/**
- * Created by Lwei on 2018/9/19.
- */
+
 public interface IProductService {
-    //增加或者更新商品
+    //后台增加或者更新商品
     ServerResponse saveOrUpdateProduct(Product product);
     //后台商品上下架
     ServerResponse setSaleStatus(Integer productId,Integer status);

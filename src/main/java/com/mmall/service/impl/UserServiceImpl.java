@@ -13,9 +13,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
-/**
- * Created by Lwei on 2018/9/1.
- */
+
 @Service("iUserService")
 public class UserServiceImpl implements IUserService {
 
